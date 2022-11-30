@@ -1,19 +1,10 @@
 <template>
-	<view>
-		
+	<view class="">
 	</view>
 </template>
 
-<script>
-	export default {
-		data() {
-			return {
-				
-			};
-		}
-	}
+<script setup>
 </script>
 
 <style lang="scss">
-
 </style>
